@@ -3,5 +3,5 @@ This challenge provided starter code for HTML and data.js. The challenge was to 
 
 The project limited us to using JavaScript, HTML, and CSS, and D3.js.
 
------
-JavaScript homework for Butler bootcamp
+## Image of final product:
+![](https://github.com/MaxBrowning/javascript-challenge/blob/main/final_deployed_project.JPG)
